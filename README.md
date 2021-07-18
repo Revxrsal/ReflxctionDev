@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**ReflxctionDev/ReflxctionDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love:
+- Multithreading
+- RESTful APIs and web applications
+- SQL databases
+- Kotlin ❤
+- Java bytecode
+- Performance
+- Python
+- cheese
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![ReflxctionDev's github stats](https://github-readme-stats.vercel.app/api?username=ReflxctionDev&show_icons=true&theme=dracula&count_private=true)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReflxctionDev&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
