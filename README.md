@@ -8,7 +8,7 @@ I love:
 - Java bytecode
 - Performance
 - Python
-- cheese
+- foxes
 
 ![ReflxctionDev's github stats](https://github-readme-stats.vercel.app/api?username=ReflxctionDev&show_icons=true&theme=dracula&count_private=true)
 <br>
